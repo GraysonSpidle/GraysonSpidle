@@ -14,8 +14,9 @@ My primary languages I use are:
 - Python
 - Javascript (NodeJS)
 
-I believe that I will never learn everything there is to know about any of the topics/languages mentioned.
+I also am familiar with Regex and increasing my familiarity with Linux.
 
-I still have much to learn!
+I believe that I will never learn everything there is to know about any of the topics/languages mentioned.
+I still have much to learn and I am always looking to improve.
 
 If you wish to contact me, use my email address displayed on my profile.
