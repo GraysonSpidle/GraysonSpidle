@@ -3,15 +3,18 @@ Greetings, I am Grayson Spidle.
 I am an aspiring programmer who enjoys programming in his free time. I have dipped my toes into various realms of programming including but not limited to:
 - Data Science
 - Artificial Intelligence
+- Combinatorics
 - Parallel Programming
 - High Performance Computing
 - Game Development
 - General Software Developement (Front and backend)
 
 My primary languages I use are:
-- C/C++
-- Java
+- C++
 - Python
+- Java
+
+Languages that I know, but regret learning:
 - Javascript (NodeJS)
 
 I also am familiar with Regex and increasing my familiarity with Linux.
