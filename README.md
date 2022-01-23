@@ -10,7 +10,7 @@ I am an aspiring programmer who enjoys programming in his free time. I have dipp
 - General Software Developement (Front and backend)
 
 My primary languages I use are:
-- C++
+- C++ ([Certified](https://verify.openedg.org/?id=fHn2.BdXN.xnDM))
 - Python
 - Java
 
